@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlessingEmejulu
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Responsive Web Development
+- 👀 I’m interested in Web and Mobile App Development 
+- 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on fun project
 - 📫 How to reach me  facebook Blessing Emejulu
 
