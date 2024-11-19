@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Mobile App Development 
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on fun project
-- 📫 How to reach me  facebook Blessing Emejulu
+- 📫 How to reach me  blessingnneamaka57@gmail.com
 
 <!---
 BlessingEmejulu/BlessingEmejulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
