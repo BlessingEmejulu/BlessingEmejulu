@@ -12,7 +12,7 @@
   <li>📩 <a href="mailto:blessingnneamaka57@gmail.com">Reach out</a> to collaborate or ask me anything!</li>
   <li>
     <p>
-      <a href="https://x.com/blessedtechie"><img src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp" width="24px" alt="Twitter"></a>
+      <a href="https://x.com/blessedtechie"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-512.png" width="24px" alt="Twitter"></a>
       <a href="https://www.linkedin.com/in/blessing-emejulu-63850a248/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png" width="24px" alt="Linkedin"></a>
       <a href="https://web.facebook.com/blessing.emejulu.33/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-64.png" width="24px" alt="Facebook"></a>
     </p>
@@ -37,4 +37,4 @@
 - 🧑🏽‍🏫 Student mentorship
 - 🎓 Developer education
 - 🌍 Empowering African devs
-- 💻 Contributing to Web3 ptojects
+- 💻 Contributing to Web3 projects
