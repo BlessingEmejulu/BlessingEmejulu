@@ -1,37 +1,40 @@
-<img src="https://gist.githubusercontent.com/wuhan005/b3fc9288b77106605d3b6fde855d1735/raw/f7cb231595adff68a2808c82132751b535632538/%25E2%259D%25A4%25EF%25B8%258FGopher.GIF" alt="Gopher GIF" align="right" width="235">
+ <img src="https://gist.githubusercontent.com/wuhan005/b3fc9288b77106605d3b6fde855d1735/raw/f7cb231595adff68a2808c82132751b535632538/%25E2%259D%25A4%25EF%25B8%258FGopher.GIF](https://github.com/user-attachments/assets/514bae97-209a-41d6-8cd3-2e490108c2e7)" alt="BlessedTechie" align="right" width="235">
 
-# Limistah [ Aleem, Isiaka - (AI) ]
+# Blessing Emejulu [Frontend Dev | Community Builder]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=limistah&label=Profile%20views&color=0e75b6&style=flat" alt="limistah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blessingemejulu&label=Profile%20views&color=0e75b6&style=flat" alt="blessingemejulu" /> </p>
 
 <ul>
-  <li>Fluent in 🇬🇧.</li>
-  <li>I publish at:
-    <img src="https://github.com/limistah/limistah/blob/master/assets/smashingmagazine.svg" width="24px" alt="SmashingMagazine"> <a href="https://aleemisiaka.com">📝</a>
-  </li>
-  <li>
-    I'm looking to collaborate on <a href="https://github.com/objectspread">ObjectSpread</a>
-  </li>
-  <li>
-    Collaborate with me on <a href="https://github.com/limistah/react-here-map">react-here-map</a> and <a href="https://github.com/objectspread/go-raft">go-raft</a>.
-  </li>
-  <li>
-    <a href="mailto:aleemisiaka@gmail.com">Ask me about anything</a>, I'd love to help.
-  </li>
+  <li>👋 Hi, I'm Blessing — a passionate frontend developer and community leader from Nigeria.</li>
+  <li>🌱 Currently learning advanced frontend frameworks, Flutter, and exploring AI in education.</li>
+  <li>🎙️ Lead Organizer at <a href="https://gdg.community.dev/gdg-on-campus-chukwuemeka-odumegwu-ojukwu-university-anambra-nigeria/">GDG on Campus COOU</a> </li>
+  <li>📢 Volunteered at SMFest Awka. Passionate about tech events, dev communities, and student empowerment.</li>
+  <li>📩 <a href="mailto:blessingnneamaka57@gmail.com">Reach out</a> to collaborate or ask me anything!</li>
   <li>
     <p>
-      <a href="https://twitter.com/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/twitter.svg" width="24px" alt="Twitter"></a>
-      <a href="https://www.linkedin.com/in/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/linkedin.svg" width="24px" alt="Linkedin"></a>
-      <a href="https://medium.com/@limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
+      <a href="https://x.com/blessedtechie"><img src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp" width="24px" alt="Twitter"></a>
+      <a href="https://www.linkedin.com/in/blessing-emejulu-63850a248/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png" width="24px" alt="Linkedin"></a>
+      <a href="https://web.facebook.com/blessing.emejulu.33/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-64.png" width="24px" alt="Facebook"></a>
     </p>
   </li>
-  <li>
-    <section style="padding: 1rem; width: 100%; max-width: 380px; min-height: 350px;"><img alt="Impact swag image" class="" src="https://hcti.io/v1/image/c5519c32-17f4-4818-9eb8-5fe72f8e1fd9" height="100%" width="100%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
-  </li>
+  
 </ul>
 
+---
 
-### Programming Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,golang,python,ruby,java" /></a>
-### DevOps/SRE
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash" /></a><img src="https://github.com/jaegertracing/artwork/blob/master/PNG/Jaeger_Logo_Final_PANTONE%20REVERSE.png" alt="jaeger" width="50">
+### 🧠 Programming Skills
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,firebase,tailwind" /></a>
+
+---
+
+### 🌐 Tools & Platforms
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,git,github,notion,netlify,vercel" /></a>
+
+---
+
+### 👥 Community & Interests
+- 💡 Tech community growth
+- 🧑🏽‍🏫 Student mentorship
+- 🎓 Developer education
+- 🌍 Empowering African devs
+- 💻 Contributing to Web3 ptojects
