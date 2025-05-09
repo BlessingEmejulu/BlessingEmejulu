@@ -1,4 +1,7 @@
- <img src="https://gist.githubusercontent.com/wuhan005/b3fc9288b77106605d3b6fde855d1735/raw/f7cb231595adff68a2808c82132751b535632538/%25E2%259D%25A4%25EF%25B8%258FGopher.GIF](https://github.com/user-attachments/assets/514bae97-209a-41d6-8cd3-2e490108c2e7)" alt="BlessedTechie" align="right" width="235">
+ <img src="#" alt="BlessedTechie" align="right" width="235">
+
+![ChatGPT Image May 9, 2025, 07_55_51 AM](https://github.com/user-attachments/assets/68ae8165-26e9-49b6-a843-e401ac7ec63e)
+
 
 # Blessing Emejulu [Frontend Dev | Community Builder]
 
