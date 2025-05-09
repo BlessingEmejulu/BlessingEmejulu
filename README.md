@@ -1,8 +1,5 @@
  <img src="https://github.com/user-attachments/assets/68ae8165-26e9-49b6-a843-e401ac7ec63e" alt="BlessedTechie" align="right" width="235">
 
-![ChatGPT Image May 9, 2025, 07_55_51 AM](https://github.com/user-attachments/assets/68ae8165-26e9-49b6-a843-e401ac7ec63e)
-
-
 # Blessing Emejulu [Frontend Dev | Community Builder]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessingemejulu&label=Profile%20views&color=0e75b6&style=flat" alt="blessingemejulu" /> </p>
